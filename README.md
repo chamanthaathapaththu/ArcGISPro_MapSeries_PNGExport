@@ -14,6 +14,8 @@ This script exports multiple maps based on a spatial map series from an ArcGIS p
 
 ## 3. Step by Step Guide
 
+Follow these steps to execute the code (Demonstration is provided in this [YouTube Tutorial](https://www.youtube.com/watch?v=IgkXu33A6YI)).
+
 1. Open an ArcGISPro project (containing the data and the layout that needed to be exported).
 
 3. Create a **spatial map series** in the layout that needs to be exported. <br> Check out this [YouTube Tutorial](https://www.youtube.com/watch?v=MNG381rli24) to learn how to create map series.
@@ -25,6 +27,8 @@ This script exports multiple maps based on a spatial map series from an ArcGIS p
 7. Run the script. The code will prompt you to enter input variables.
    
 9. Enter the input variables. Press 'Enter' after entering each input.
+   
+11. Wait for the code to execute. Then check the output folder.
 
 | Variable name | Description | Example | 
 | -------- | -------- | -------- |
