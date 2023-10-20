@@ -8,6 +8,7 @@ This script exports multiple maps based on a spatial map series from an ArcGIS p
 
 ## 2. Important Notes
 
+- <b>Warning!!!</b> Save your project before running the code.
 - This code **do not support bookmark map series**.
 - This code assumes that the ArcGIS project is currently open and active in the ArcGIS Desktop application.
 - Make sure you have the necessary permissions to access the specified export location.
